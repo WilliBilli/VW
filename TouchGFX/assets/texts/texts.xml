@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.18.0">
+  <Texts>
+    <Text Id="ResourceId1" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">New Text</Translation>
+      <Translation Language="RU">New Text</Translation>
+    </Text>
+    <Text Id="__SingleUse_9FYV" TypographyId="Small" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">RPM</Translation>
+      <Translation Language="RU">RPM</Translation>
+    </Text>
+    <Text Id="__SingleUse_58C0" TypographyId="Small" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_3TWG" TypographyId="Small" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_FYWU" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_IS4D" TypographyId="VerySmall" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">x1000</Translation>
+      <Translation Language="RU">х1000</Translation>
+    </Text>
+    <Text Id="__SingleUse_106K" TypographyId="VeryLarge" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_GUS4" TypographyId="VeryLarge" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">00000</Translation>
+      <Translation Language="RU">00000</Translation>
+    </Text>
+    <Text Id="__SingleUse_FCW2" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_W6OJ" TypographyId="Large" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">00</Translation>
+      <Translation Language="RU">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_LV3R" TypographyId="Small" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">AM</Translation>
+      <Translation Language="RU">AM</Translation>
+    </Text>
+    <Text Id="__SingleUse_1O9I" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+      <Translation Language="RU">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_UO6L" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">7</Translation>
+      <Translation Language="RU">7</Translation>
+    </Text>
+    <Text Id="__SingleUse_49MH" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">8</Translation>
+      <Translation Language="RU">8</Translation>
+    </Text>
+    <Text Id="__SingleUse_JWVJ" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">9</Translation>
+      <Translation Language="RU">9</Translation>
+    </Text>
+    <Text Id="__SingleUse_JOPL" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">4</Translation>
+      <Translation Language="RU">4</Translation>
+    </Text>
+    <Text Id="__SingleUse_PHU1" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">5</Translation>
+      <Translation Language="RU">5</Translation>
+    </Text>
+    <Text Id="__SingleUse_64UJ" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">6</Translation>
+      <Translation Language="RU">6</Translation>
+    </Text>
+    <Text Id="__SingleUse_KNJW" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">1</Translation>
+      <Translation Language="RU">1</Translation>
+    </Text>
+    <Text Id="__SingleUse_YMMN" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">2</Translation>
+      <Translation Language="RU">2</Translation>
+    </Text>
+    <Text Id="__SingleUse_1XZ1" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">3</Translation>
+      <Translation Language="RU">3</Translation>
+    </Text>
+    <Text Id="__SingleUse_YH9G" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Login</Translation>
+      <Translation Language="RU">Вход</Translation>
+    </Text>
+    <Text Id="__SingleUse_ZPS9" TypographyId="VeryLarge" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_LE96" TypographyId="VeryLarge" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">21.12.2021</Translation>
+      <Translation Language="RU">21.12.2021</Translation>
+    </Text>
+    <Text Id="__SingleUse_FSBT" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">day</Translation>
+      <Translation Language="RU">день</Translation>
+    </Text>
+    <Text Id="__SingleUse_3HM0" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">mounth</Translation>
+      <Translation Language="RU">месяц</Translation>
+    </Text>
+    <Text Id="__SingleUse_3XAR" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">year</Translation>
+      <Translation Language="RU">год</Translation>
+    </Text>
+    <Text Id="__SingleUse_ZZS6" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">hour</Translation>
+      <Translation Language="RU">час</Translation>
+    </Text>
+    <Text Id="__SingleUse_KHSV" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">minute</Translation>
+      <Translation Language="RU">минута</Translation>
+    </Text>
+    <Text Id="__SingleUse_YXXI" TypographyId="VeryLarge" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;&gt;</Translation>
+      <Translation Language="RU">&lt;&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_HOBQ" TypographyId="VeryLarge" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_LV7F" TypographyId="VeryLarge" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">500</Translation>
+      <Translation Language="RU">500</Translation>
+    </Text>
+    <Text Id="__SingleUse_NMRG" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">+100</Translation>
+      <Translation Language="RU">+100</Translation>
+    </Text>
+    <Text Id="__SingleUse_K2TT" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">+10</Translation>
+      <Translation Language="RU">+10</Translation>
+    </Text>
+    <Text Id="__SingleUse_L98A" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">+1</Translation>
+      <Translation Language="RU">+1</Translation>
+    </Text>
+    <Text Id="__SingleUse_HSQ9" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Save</Translation>
+      <Translation Language="RU">Сохранить</Translation>
+    </Text>
+    <Text Id="__SingleUse_6VZE" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Save</Translation>
+      <Translation Language="RU">Сохранить</Translation>
+    </Text>
+    <Text Id="__SingleUse_WOIR" TypographyId="Small" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">LEFT/HOURS</Translation>
+      <Translation Language="RU">ОСТАЛОСЬ/ЧАС</Translation>
+    </Text>
+    <Text Id="__SingleUse_53LP" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">+1</Translation>
+      <Translation Language="RU">+1</Translation>
+    </Text>
+    <Text Id="__SingleUse_G5OH" TypographyId="VeryLarge" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_Z4EN" TypographyId="VeryLarge" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">24</Translation>
+      <Translation Language="RU">24</Translation>
+    </Text>
+    <Text Id="__SingleUse_IMVR" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Time to SRC</Translation>
+      <Translation Language="RU">Время до ТО</Translation>
+    </Text>
+    <Text Id="__SingleUse_X8JZ" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Remind</Translation>
+      <Translation Language="RU">Напомнить</Translation>
+    </Text>
+    <Text Id="__SingleUse_ZWAZ" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+      <Translation Language="RU">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_7BUZ" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">9</Translation>
+      <Translation Language="RU">9</Translation>
+    </Text>
+    <Text Id="__SingleUse_63T8" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">8</Translation>
+      <Translation Language="RU">8</Translation>
+    </Text>
+    <Text Id="__SingleUse_D9KR" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">7</Translation>
+      <Translation Language="RU">7</Translation>
+    </Text>
+    <Text Id="__SingleUse_QENQ" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">6</Translation>
+      <Translation Language="RU">6</Translation>
+    </Text>
+    <Text Id="__SingleUse_U0LM" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">5</Translation>
+      <Translation Language="RU">5</Translation>
+    </Text>
+    <Text Id="__SingleUse_OC1T" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">4</Translation>
+      <Translation Language="RU">4</Translation>
+    </Text>
+    <Text Id="__SingleUse_9HQX" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">3</Translation>
+      <Translation Language="RU">3</Translation>
+    </Text>
+    <Text Id="__SingleUse_ES2I" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">2</Translation>
+      <Translation Language="RU">2</Translation>
+    </Text>
+    <Text Id="__SingleUse_2WSE" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">1</Translation>
+      <Translation Language="RU">1</Translation>
+    </Text>
+    <Text Id="__SingleUse_LYL6" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">9</Translation>
+      <Translation Language="RU">EN</Translation>
+    </Text>
+    <Text Id="__SingleUse_LFJJ" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">7</Translation>
+      <Translation Language="RU">C</Translation>
+    </Text>
+    <Text Id="__SingleUse_BEAT" TypographyId="Large" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_V3E8" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">&lt;*&gt;</Translation>
+      <Translation Language="RU">&lt;*&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_LYL4" TypographyId="Large" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">-</Translation>
+      <Translation Language="RU">|</Translation>
+    </Text>
+    <Text Id="__SingleUse_KA0Y" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">-</Translation>
+      <Translation Language="RU">Введите пароль</Translation>
+    </Text>
+    <Text Id="__SingleUse_N54U" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">New Text</Translation>
+      <Translation Language="RU">Сменить пароль</Translation>
+    </Text>
+    <Text Id="__SingleUse_HCY4" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">New Text</Translation>
+      <Translation Language="RU">Кнопка сброса&#10; таймера моточасов</Translation>
+    </Text>
+    <Text Id="__SingleUse_VIF6" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Save</Translation>
+      <Translation Language="RU">Отмена/Закрыть</Translation>
+    </Text>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="Magistral-Book.ttf" Size="20" Bpp="8" FallbackCharacter="?" WildcardCharacters="?/АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ" />
+    <Typography Id="Large" Font="Magistral-Book.ttf" Size="44" Bpp="8" FallbackCharacter="?" WildcardCharacters=".|" WidgetWildcardCharacters="0123456789 :APM" />
+    <Typography Id="Small" Font="Magistral-Book.ttf" Size="14" Bpp="8" FallbackCharacter="?" WildcardCharacters="?/АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ" />
+    <Typography Id="VeryLarge" Font="Magistral-Book.ttf" Size="70" Bpp="4" FallbackCharacter="?" WildcardCharacters=".|" WidgetWildcardCharacters="0123456789 :APM" />
+    <Typography Id="VerySmall" Font="Magistral-Book.ttf" Size="10" Bpp="4" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
